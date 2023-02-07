@@ -8,4 +8,4 @@
 
 - 🌱 I’m currently getting in touch with **Racket** and **Flutter**.
 
-- 🔭 I'm planning to learn **NodeJS**
+- 🔭 I'm planning to learn ==NodeJS==
