@@ -6,4 +6,6 @@
 
 - 🔭 I’m currently working on a website to reference courses for INSA Hauts-de-France new students with <a href = "https://github.com/maximezim">Maxime Zimmermann</a>.
 
-- 🌱 I’m currently learning **racket** and **flutter**.
+- 🌱 I’m currently getting in touch with **Racket** and **Flutter**.
+
+- 🔭 I'm planning to learn **NodeJS**
