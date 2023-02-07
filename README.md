@@ -10,4 +10,4 @@
 
 - 🔭 I'm planning to learn **NodeJS**
 
-- <span style="background-color: #FFFF00">Marked text</span>
+- <span style="color: red">Marked text</span>
