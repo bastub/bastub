@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Python-3b72a1?style=for-the-badge&logo=Python&labelColor=eee&logoColor=3b72a1&logoSize=auto"/>
 <img src="https://img.shields.io/badge/Prolog-ee232b?style=for-the-badge&logo=Tripadvisor&labelColor=eee&logoColor=ee232b&logoSize=auto"/>
 <img src="https://img.shields.io/badge/Racket-a22427?style=for-the-badge&logo=Racket&labelColor=eee&logoColor=a22427&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/Cuda-92c845?style=for-the-badge&logo=Nvidia&labelColor=eee&logoColor=92c845&logoSize=auto"/> 
 </p>
 
 <h3 align="center"> Frameworks and Libraries </h3>
