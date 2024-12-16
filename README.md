@@ -37,7 +37,6 @@
 <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask&labelColor=eee&logoColor=000&logoSize=auto"/>
 <img src="https://img.shields.io/badge/Apache_Kafka-231f20?style=for-the-badge&logo=ApacheKafka&labelColor=eee&logoColor=231f20"/>
 <img src="https://img.shields.io/badge/Angular-de0837?style=for-the-badge&logo=Angular&labelColor=eee&logoColor=de0837&logoSize=auto"/>
-<img src="https://img.shields.io/badge/React-66dbfb?style=for-the-badge&logo=React&labelColor=eee&logoColor=66dbfb&logoSize=auto"/>
 <img src="https://img.shields.io/badge/Flutter-4ad2fd?style=for-the-badge&logo=Flutter&labelColor=eee&logoColor=4ad2fd&logoSize=auto"/>
 </p>
 
